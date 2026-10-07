@@ -1,0 +1,5 @@
+policy,data,epochs,lr,offline_mae,pub_score,pub_comp,pub_off,hid_score,hid_comp,mean_abs_d
+expert,v1,4,-,0.0,89.824,1.0,0.0,89.836,1.0,0.102
+base,v1,4,-,0.317,9.295,0.203,1.0,9.531,0.209,0.084
+scratch,v1,4,0.001,0.134,10.125,0.224,1.0,10.477,0.232,0.098
+finetune,v1,4,0.0003,0.084,83.777,1.0,0.0,84.11,1.0,0.162
