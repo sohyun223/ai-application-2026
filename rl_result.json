@@ -1,0 +1,24 @@
+{
+ "student": "202412315_박소현",
+ "level_table": {
+  "L1": {
+   "start": 86.7,
+   "ppo_scratch": 90.5,
+   "ppo_bc12": 88.3
+  },
+  "L2": {
+   "start": 17.3,
+   "ppo_scratch": 9.6,
+   "ppo_bc12": 23.3
+  },
+  "L4": {
+   "start": 57.8,
+   "ppo_scratch": 44.4,
+   "ppo_bc12": 72.0
+  }
+ },
+ "start_hard": 84.27429421445574,
+ "best_hard": 84.3,
+ "steps": 7680,
+ "onnx": "/content/drive/MyDrive/AIApp/week10/my_policy_rl.onnx"
+}
